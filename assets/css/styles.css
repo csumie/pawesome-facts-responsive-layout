@@ -875,6 +875,10 @@ img {
   color: var(--first-color-lighter);
 }
 
+.footer__callout:hover {
+  color: var(--first-color-lighter);
+}
+
 .footer__copy {
   font-size: var(--smaller-font-size);
   text-align: center;
