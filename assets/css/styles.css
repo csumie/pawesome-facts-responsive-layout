@@ -11,6 +11,7 @@
 
     --hue-color: 390; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
     --hue-color-dark: 209.39;
+    --hue-color-dark-footer: 30;
     /* HSL color mode */
     --first-color: hsl(var(--hue-color), 69%, 61%);
     --first-color-second: hsl(var(--hue-color), 69%, 61%);
@@ -78,7 +79,7 @@
 
 body.dark-theme {
   /* HSL color mode */
-  --first-color-second: hsl(var(--hue-color), 30%, 8%);
+  --first-color-second: hsl(var(--hue-color-dark-footer), 12.7%, 20.31%);
   --title-color: hsl(var(--hue-color), 8%, 95%);
   --text-color: hsl(var(--hue-color), 8%, 75%);
   --input-color: hsl(var(--hue-color), 29%, 16%);
