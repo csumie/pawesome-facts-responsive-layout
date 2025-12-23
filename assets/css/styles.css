@@ -23,6 +23,7 @@
     --input-color: hsl(var(--hue-color), 70%, 96%);
     --body-color: hsl(var(--hue-color), 60%, 99%);
     --container-color: #FFF;
+    --link-color: #142d45;
     --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
     --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
 
@@ -876,6 +877,10 @@ img {
 }
 
 .footer__social:hover {
+  color: var(--first-color-lighter);
+}
+
+.footer__callout {
   color: var(--first-color-lighter);
 }
 
