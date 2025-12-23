@@ -359,8 +359,9 @@ img {
   transform: translateY(0.25rem);
 }
 
-.home_scroll-mouse {
-  font-size: 2rem;
+.home__scroll-mouse {
+  font-size: 1rem;
+  color: var(--first-color);
 }
 
 .home__scroll-name {
