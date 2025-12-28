@@ -333,6 +333,7 @@ img {
 .home__title {
   font-size: var(--big-font-size);
   line-height: 50px;
+  margin-top: 3rem;
 }
 
 .home__subtitle {
