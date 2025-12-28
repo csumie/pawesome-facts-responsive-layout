@@ -1056,6 +1056,11 @@ img {
 
 
 /* For medium devices */
+@media screen and (max-width: 659px){
+  .home__title {
+    line-height: 35px;
+  }
+}
 
 @media screen and (max-width: 568px){
   .home__title {
