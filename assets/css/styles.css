@@ -1071,6 +1071,10 @@ img {
     justify-self: center;
   }
 
+  .home__title {
+    margin-top: 0rem;
+  }
+
   .about__container,
   .facts__container,
   .portfolio__content,
