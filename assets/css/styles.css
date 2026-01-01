@@ -1110,6 +1110,13 @@ img {
     padding: 2rem 2rem;
     text-align: center;
   }
+}
+
+@media screen and (max-width: 500px) {
+  .outro__description {
+    margin-top: 3rem;
+  }
+}
 
   @media screen and (min-width: 768px) {
     .container {
